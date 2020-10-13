@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfStorage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Storage xsi:type="DVD">
+    <Count>213</Count>
+    <Capacity>123</Capacity>
+    <Name_Company>123</Name_Company>
+    <Model>123</Model>
+    <Name>132</Name>
+    <Speed>123</Speed>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Count>555</Count>
+    <Capacity>555</Capacity>
+    <Name_Company>555</Name_Company>
+    <Model>555</Model>
+    <Name>555</Name>
+    <Speed>555</Speed>
+  </Storage>
+</ArrayOfStorage>

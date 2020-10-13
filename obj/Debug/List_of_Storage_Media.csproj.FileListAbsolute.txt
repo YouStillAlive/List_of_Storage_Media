@@ -1,0 +1,7 @@
+C:\Users\Andrew\source\repos\List_of_Storage_Media\obj\Debug\List_of_Storage_Media.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\List_of_Storage_Media\obj\Debug\List_of_Storage_Media.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\List_of_Storage_Media\bin\Debug\List_of_Storage_Media.exe.config
+C:\Users\Andrew\source\repos\List_of_Storage_Media\bin\Debug\List_of_Storage_Media.exe
+C:\Users\Andrew\source\repos\List_of_Storage_Media\bin\Debug\List_of_Storage_Media.pdb
+C:\Users\Andrew\source\repos\List_of_Storage_Media\obj\Debug\List_of_Storage_Media.exe
+C:\Users\Andrew\source\repos\List_of_Storage_Media\obj\Debug\List_of_Storage_Media.pdb
